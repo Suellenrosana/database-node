@@ -9,7 +9,7 @@ Este projeto foi desenvolvido com Node.js trata-se de banco de dados gerando int
 Node.js, Javascript, Insominia e biblioteca express.
 <br>
 <br>
-Os testes foram feitos no Insominia um simulador de frontend! 🚀 
+Os testes foram feitos no Insominia um simulador de API! 🚀 
 
 <h2>🔍 Design no Insomina</h2>
 <img src="https://github.com/Suellenrosana/database-node/blob/master/img/frontend_insomnia.png?raw=true">
