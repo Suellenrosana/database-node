@@ -6,7 +6,7 @@ O projeto que desenvolvi durante o DevClub, sob mentoria Rodolfo Mori.
 
 <li>Este projeto desenvolvido com Node.js trata-se de banco de dados gerando interface entre backend e frontend. Foi criado quatro rotas: Usuarios, criar usuarios, altrar usuarios e deletar usuarios.
 
-<h3><b>Tecnologias utilizadas:</b></h3>
+<h2><b>Tecnologias utilizadas:</b></h2>
 Node.js, Javascript, Insominia e biblioteca express
 <br>
 <br>
