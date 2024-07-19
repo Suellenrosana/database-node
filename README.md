@@ -11,7 +11,7 @@ Node.js, Javascript, Insomnia e Express.js e bibliotecas.
 <br>
 Os testes foram feitos no Insomnia um simulador de API! 🚀 
 
-<h2>🔍 Design no Insomina</h2>
+<h2>🔍 Design no Insomnia</h2>
 <img src="https://github.com/Suellenrosana/database-node/blob/master/img/frontend_insomnia.png?raw=true">
 
 
